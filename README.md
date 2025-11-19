@@ -1,6 +1,6 @@
 <div align="center" style="background: #1e1e1e; color: #00ff00; padding: 20px; border-radius: 8px; font-family: 'Source Code Pro', monospace, monospace; max-width: 600px; margin: auto;">
 <pre>
-mady@linux:~$ echo "Welcome to my terminal"
+madss-bin@root:~$ echo "Welcome to my terminal"
 > Welcome to my terminal
 </pre>
 </div>
